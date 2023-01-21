@@ -76,7 +76,7 @@
 
 #### 2 способ
 Создать новый репозиторий при помощи командной строки. Для этого необходимо ввести следующие команды:
-* echo "# FinalProject" >> README.md
+* echo "# <название удалённого репозитория>" >> README.md
 * git init
 * git add README.md
 * git commit -m "first commit"
